@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mystaticwebsite/build/static/css/main.67ac4cbe.chunk.css",
+    "main.js": "/mystaticwebsite/build/static/js/main.ce5c9159.chunk.js",
+    "main.js.map": "/mystaticwebsite/build/static/js/main.ce5c9159.chunk.js.map",
+    "runtime-main.js": "/mystaticwebsite/build/static/js/runtime-main.3e44c0dd.js",
+    "runtime-main.js.map": "/mystaticwebsite/build/static/js/runtime-main.3e44c0dd.js.map",
+    "static/js/2.37443bfe.chunk.js": "/mystaticwebsite/build/static/js/2.37443bfe.chunk.js",
+    "static/js/2.37443bfe.chunk.js.map": "/mystaticwebsite/build/static/js/2.37443bfe.chunk.js.map",
+    "static/js/3.543a4054.chunk.js": "/mystaticwebsite/build/static/js/3.543a4054.chunk.js",
+    "static/js/3.543a4054.chunk.js.map": "/mystaticwebsite/build/static/js/3.543a4054.chunk.js.map",
+    "index.html": "/mystaticwebsite/build/index.html",
+    "static/css/main.67ac4cbe.chunk.css.map": "/mystaticwebsite/build/static/css/main.67ac4cbe.chunk.css.map",
+    "static/js/2.37443bfe.chunk.js.LICENSE.txt": "/mystaticwebsite/build/static/js/2.37443bfe.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/mystaticwebsite/build/static/media/NanumPenScript-Regular.9dbef110.ttf",
+    "static/media/hidden.c34f19c6.gif": "/mystaticwebsite/build/static/media/hidden.c34f19c6.gif",
+    "static/media/logo.dabf7636.png": "/mystaticwebsite/build/static/media/logo.dabf7636.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e44c0dd.js",
+    "static/js/2.37443bfe.chunk.js",
+    "static/css/main.67ac4cbe.chunk.css",
+    "static/js/main.ce5c9159.chunk.js"
+  ]
+}
